@@ -1,0 +1,9 @@
+{
+	"name": "Revision121",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2659fd73-2235-4aff-88b9-923fc9aa5ea3",
+		"tenantId": "1f4bbc01-4f18-4054-ade9-bc3fe5990632"
+	}
+}
